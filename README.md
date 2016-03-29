@@ -5,11 +5,11 @@ A small library providing utility methods to `escape` and `unescape` HTML entiti
 
 ## Installation
 
-  npm install RescueHtml --save
+  npm install rescue-html --save
 
 ## Usage
 
-  var RescueHtml = require('RescueHtml')
+  var RescueHtml = require('rescue-html')
       escape = RescueHtml.escape,
       unescape = RescueHtml.unescape;
 
